@@ -1,0 +1,75 @@
+
+body
+{    
+    font-family: Courier;
+    display:flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    padding:0px;
+    margin:0px;
+    background-image: url(images/background.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+
+}
+.Links
+{
+  width: 230px;
+  border: 3px solid white;
+  padding: 5px;
+  font-size: 14px;
+  
+  
+}
+.presentation
+{
+    width: 600px;
+    border: 3px solid white;
+    margin-top: 50px;
+    
+}   
+.headerGoals
+{
+    margin-top: 50px;
+}
+.Goals
+{
+    width: 600;
+    border: 3px solid white;
+    margin-top: 100px;
+}
+.headerInterests
+{
+    margin-top: 30px;
+}
+.interests
+{
+    width: 600;
+    border: 3px solid white;
+    margin-top: 0px;
+}
+.interestsList
+{
+    width: 600;
+    border: 3px solid white;
+    margin-top: 5px;
+}
+.ambitionsHeader
+{
+    margin-top: 30px;
+}
+.ambtioner
+{
+    width: 600;
+    border: 3px solid white;
+    margin-top: 100px;
+}
+.footer
+{
+    margin-top: 800px;
+}
+
+
